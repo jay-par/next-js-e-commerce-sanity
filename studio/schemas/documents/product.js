@@ -12,6 +12,11 @@ export default {
       type: "string",
     },
     {
+      name: "Nonsense",
+      title: "nonsense",
+      type: "string",
+    },
+    {
       title: "Main image",
       name: "mainImage",
       type: "image",
